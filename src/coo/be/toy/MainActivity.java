@@ -12,7 +12,10 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         
         TextView text = new TextView(this);
-        text.setText("Greeting from Daming");
+        String s = "Greeting from Daming\n"+"Say your greetings below:\n";
+        text.setText(s);
+       
+
         setContentView(text);  
         
         //setContentView(R.layout.activity_main);
