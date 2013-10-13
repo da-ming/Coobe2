@@ -13,9 +13,8 @@ public class MainActivity extends Activity {
         
         TextView text = new TextView(this);
 
-        String s = "Greeting from Daming\n"+"Say your greetings below:\n";
-        text.append("Greating from Xiaochen!\n");
-        
+        String s = "Greeting from Daming\n"+"Say your greetings belowee:\n";
+        s += "Greating from Xiaochen!\n";        
         text.setText(s);
         setContentView(text);  
         
