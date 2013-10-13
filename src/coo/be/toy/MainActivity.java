@@ -12,7 +12,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         
         TextView text = new TextView(this);
-
         String s = "Greeting from Daming\n"+"Say your greetings belowee:\n";
         s += "Greating from Xiaochen!\n";        
         text.setText(s);
