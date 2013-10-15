@@ -3,6 +3,11 @@
 
     <string name="app_name">Toy</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="recent_status">Recent Status:</string>
+    
+    <string name="login_with_twitter">Login with Twitter</string>
+    <string name="update_status">Update Status</string>
+    <string name="tweet">Tweet</string>
+    <string name="logout_from_twitter">Logout from Twitter</string>
 
 </resources>
